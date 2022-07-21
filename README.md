@@ -7,6 +7,8 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=yellow"/></a>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=yellow"/></a>
 <img src="https://img.shields.io/badge/csharp-FFBA03?style=flat-square&logo=csharp&logoColor=blue"/></a>
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>
 <!--
 **SeolRoh/SeolRoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
