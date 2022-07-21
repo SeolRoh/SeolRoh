@@ -1,12 +1,12 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Java-2270A1?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/MySQL-yellow?style=flat-square&logo=MySQL&logoColor=black"/></a>&nbsp
-<img src="https://img.shields.io/badge/mssql-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=black"/></a>&nbsp
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=yellow"/></a>&nbsp
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=yellow"/></a>&nbsp
-<img src="https://img.shields.io/badge/csharp-FFBA03?style=flat-square&logo=csharp&logoColor=blue"/></a>&nbsp
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-2270A1?style=flat-square&logo=java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-yellow?style=flat-square&logo=MySQL&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/mssql-CC2927?style=flat-square&logo=MicrosoftSQLServer&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=yellow"/></a>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=yellow"/></a>
+<img src="https://img.shields.io/badge/csharp-FFBA03?style=flat-square&logo=csharp&logoColor=blue"/></a>
 <!--
 **SeolRoh/SeolRoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
