@@ -1,4 +1,9 @@
 ### Hi there 👋
+
+### <center>🛠Tech Stack🛠</center>
+<center>Techs that I've used at least once</center>
+
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-2270A1?style=flat-square&logo=java&logoColor=white"/></a>
