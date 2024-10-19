@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ### <center>🛠Tech Stack🛠</center>
+#### 현재는 LLM의 한계를 극복하기 위한 기술인 Rag, Fine Tuning , Prompt Engineering에 관심을 가지며 프로젝트를 진행하고 있습니다😊
+#### 맨땅에 헤딩 중으로 씹고 뜯고 맛보며 즐겁게 하고있습니다~
 
 
 #### <center>Techs that I've used at least once</center>
